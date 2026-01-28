@@ -1,6 +1,5 @@
-═══════════════════════════════════════════════════════════════
 ⚠️  **PROJECT DEADLINE: JUNE 2026**  ⚠️
-═══════════════════════════════════════════════════════════════
+
 
 🚨 **CRITICAL TIMELINE - IMMEDIATE PRIORITY** 🚨
 
@@ -8,7 +7,7 @@ This is a time-critical project with strict delivery requirements.
 All development efforts must align with the June 2026 launch deadline.
 No extensions will be granted. Plan accordingly.
 
-═══════════════════════════════════════════════════════════════
+══════════════════════════════════
 
 # GigEarn - Workforce Infrastructure Platform for India's Gig Economy
 
